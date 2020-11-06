@@ -14,9 +14,11 @@
 
 ## :octocat: Github 📈
 
+<p align="center">
 <a href="https://github.com/RDCH106/RDCH106">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=RDCH106&show_icons=true&line_height=27&count_private=true&include_all_commits=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&custom_title=RDCH106's GitHub Stats" alt="RDCH106's GitHub Stats" />
 </a>
+</p>
 
 <!-- links to social media icons -->
 
