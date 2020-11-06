@@ -19,8 +19,8 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=RDCH106&show_icons=true&line_height=27&count_private=true&include_all_commits=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&custom_title=RDCH106's GitHub Stats" alt="RDCH106's GitHub Stats" />
   </a>
   <!--<a href="https://github.com/RDCH106/RDCH106">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RDCH106&langs_count=3&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />-->
-  </a>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RDCH106&langs_count=3&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  </a>-->
 </p>
 
 <!-- links to social media icons -->
@@ -46,6 +46,7 @@
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
 <!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
+<!-- GitHub languages Stats: https://github.com/IonicaBizau/github-profile-languages -->
 <!-- Emojis: https://emojipedia.org/emoji/ -->
 <!-- HTML Emojis: https://www.fileformat.info/index.htm -->
 <!-- GitHub Emoji Cheat Sheet: https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md -->
