@@ -1,5 +1,9 @@
 [![Header](https://raw.githubusercontent.com/RDCH106/RDCH106/main/Pacman3e-1024x154.png "Header")](https://mascandobits.es)
 
+<p align="center">
+  <a href="https://ko-fi.com/rdch106" target="_blank"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi"/><a/>
+</p>
+
 # 👋
 
 :us: My name is Rubén de Celis Hernández and I'm a software engineer. I'm from Spain, living in Vitoria and currently working at STT Systems. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
